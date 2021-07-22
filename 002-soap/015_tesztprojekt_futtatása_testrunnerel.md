@@ -14,4 +14,4 @@ docker compose up -d
 * projektedet már kibővítetted egy saop asserttel
 
 ## Feladatod
-A projektedben lévő teszthez add hozzá a videóban megismert XPath validation tesztet.
+A projekted kiexportált változatatát a videókban ismertetett módon futtasd le a saját gépeden testrunner segítségével.
