@@ -14,4 +14,4 @@ docker compose up -d
 * projektedet már kibővítetted egy saop asserttel
 
 ## Feladatod
-A projektedben lévő teszthez add hozzá a videóban megismert XPath validation tesztet.
+A projekted exportált változatát add hozzá és pushold be a github repódba. A reóhoz a vizsgaremekben és egyéb feladatokban ismertetett módon készíts Github action workflow-t. Futtasd a soapui testrunner segítségével a projekted tesztjeit. Ne feledd, hogy el kell indítanod a dockerizált locations appot mielőtt a testrunnert futtatod.
