@@ -4,7 +4,7 @@
 A feladat elvégzéséhez az alábbi előfeltételekkel élünk
 * a SoapUI community edition legújabb verizója telepítve van a gépeden
 * telepítve van a gépeden a Docker Desktop és működik
-* beszerezted a Locations-App forráskódját innen:
+* beszerezted a Locations-App forráskódját innen: https://github.com/Training360/locations-app
 * elindítottad az applikációt az alábbi parancsal:
 ```
 docker compose up -d
